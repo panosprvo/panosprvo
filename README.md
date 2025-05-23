@@ -33,6 +33,7 @@ I decided to pursue this passion more seriously and applied for a conversion cou
 ### 💻 Projects
 
 - **[Dixit Points Counter](https://dixit-scoreboard-two.vercel.app)** - built using **React** and **Next.js**.
+- **[Genetic Algorithms and Image Reconstruction Repo](https://github.com/panosprvo/ga-image-reconstruction)** - build using Python (part of my CompSci MSc)
 
 ### 🌱 Current Focus
 
