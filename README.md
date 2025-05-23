@@ -7,7 +7,8 @@
 ### 👨🏻 About me
 I'm a software engineer with over 3 years of experience working in the tech industry.
 
-My career in tech began in 2022 when I joined **Policy in Practice**, a SaaS start-up/scale-up that provides software solutions to help local authorities support their residents more effectively.
+My career in tech began in 2022 when I joined **Policy in Practice**, a SaaS start-up/scale-up helping local authorities better support residents.
+
 
 ### 🎓 Background
 
@@ -19,32 +20,15 @@ I decided to pursue this passion more seriously and applied for a conversion cou
 
 ### ⚙️ Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panosprvo&layout=compact&theme=tokyonight)
+- **Languages**: Python, JavaScript, TypeScript, SQL
 
+- **Frameworks & Libraries**: Angular, React, Node.js, Next.js
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-00A3E0?style=for-the-badge&logo=playwright&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-00B300?style=for-the-badge&logo=cucumber&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Testing**: Jest, Playwright, Cucumber, Mocha, Chai
 
+- **Tools & Platforms**: Git, GitHub, Docker, Postman
 
-[//]: # (- **Languages**: Python, JavaScript, TypeScript)
-
-[//]: # (- **Frameworks & Libraries**: Angular, React, Node.js, Playwright, Cypress, Cucumber)
-
-[//]: # (- **Databases**: MySQL)
-
-[//]: # (- **Cloud & Tools**: Git, AWS, CI/CD)
-
-[//]: # (- **Tools**: Agile, REST APIs)
+- **Cloud & DevOps**: AWS (Lambda, DynamoDB, CloudWatch, Cognito, S3, SQS), CI/CD (GitHub Actions)
 
 ### 🌱 Current Focus
 
@@ -52,6 +36,6 @@ I'm currently expanding my expertise in **React** and deepening my knowledge of 
 
 ### 💻 Projects
 
-- **[Dixit Points Counter](https://dixit-scoreboard-two.vercel.app)** - build using **React** and **Next.js**.
+- **[Dixit Points Counter](https://dixit-scoreboard-two.vercel.app)** - built using **React** and **Next.js**.
 
 
