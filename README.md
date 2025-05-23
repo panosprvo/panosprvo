@@ -30,12 +30,10 @@ I decided to pursue this passion more seriously and applied for a conversion cou
 
 - **Cloud & DevOps**: AWS (Lambda, DynamoDB, CloudWatch, Cognito, S3, SQS), CI/CD (GitHub Actions)
 
-### 🌱 Current Focus
-
-I'm currently expanding my expertise in **React** and deepening my knowledge of **AWS**.
-
 ### 💻 Projects
 
 - **[Dixit Points Counter](https://dixit-scoreboard-two.vercel.app)** - built using **React** and **Next.js**.
 
+### 🌱 Current Focus
 
+I'm currently expanding my expertise in **React** and deepening my knowledge of **AWS**.
