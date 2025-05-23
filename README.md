@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Panos
 
+### 📫 Let's Connect
+
+📧 [Email](panayiotisprovias@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-provias-299464156/)
+
+### 👨🏻 About me
 I'm a software engineer with over 3 years of experience working in the tech industry.
 
 My career in tech began in 2022 when I joined **Policy in Practice**, a SaaS start-up/scale-up that provides software solutions to help local authorities support their residents more effectively.
@@ -45,11 +50,8 @@ I decided to pursue this passion more seriously and applied for a conversion cou
 
 I'm currently expanding my expertise in **React** and deepening my knowledge of **AWS**.
 
-As a side project, I’m building a **points counter app** for a board game called *Dixit* — stay tuned, it'll be on my GitHub soon!
+### 💻 Projects
 
-### 📫 Let's Connect
+- **[Dixit Points Counter](https://dixit-scoreboard-two.vercel.app)** - build using **React** and **Next.js**.
 
-- Email: `panayiotisprovias@gmail.com`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-provias-299464156/)
 
