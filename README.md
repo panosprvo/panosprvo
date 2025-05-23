@@ -2,7 +2,7 @@
 
 ### 📫 Let's Connect
 
-📧 [Email](panayiotisprovias@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-provias-299464156/)
+📧 [Email](mailto:panayiotisprovias@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/panagiotis-provias-299464156/)
 
 ### 👨🏻 About me
 I'm a software engineer with over 3 years of experience working in the tech industry.
